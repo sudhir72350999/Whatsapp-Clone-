@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/drawable/attachment.xml" value="0.1" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/drawable/background_box.xml" value="0.1535" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/drawable/circle_bg.xml" value="0.15" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/drawable/circle_green.xml" value="0.1535" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/drawable/love.xml" value="0.1535" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/drawable/profile.xml" value="0.1535" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/drawable/receive_drawable.xml" value="0.1515" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/drawable/search.xml" value="0.1535" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/drawable/sent_drawable.xml" value="0.1535" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/activity_chats.xml" value="0.264" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/activity_enter_mobile_number_one.xml" value="0.13072916666666667" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/activity_group_chat.xml" value="0.176" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/activity_main.xml" value="0.1649122807017544" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/activity_setup_profile.xml" value="0.3940345368916798" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/activity_verify_enter_otp_two.xml" value="0.12708333333333333" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/delete_dialog.xml" value="0.552863436123348" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/demo_layout.xml" value="0.4" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/demo_status.xml" value="0.1" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/item_recieve.xml" value="0.6" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/item_recieve_group.xml" value="0.1" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/item_sent.xml" value="0.4" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/item_sent_group.xml" value="0.1" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/item_status.xml" value="0.5222222222222223" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/layout/row_conversation.xml" value="0.6045883940620783" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/menu/menu.xml" value="0.4" />
+        <entry key="..\:/WhatsAppNewChattingApp/app/src/main/res/menu/top_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

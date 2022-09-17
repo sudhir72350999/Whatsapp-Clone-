@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395915255749",
+    "project_id": "whatsapp-new-chatting-app",
+    "storage_bucket": "whatsapp-new-chatting-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395915255749:android:bb5e68d0b958b61b63f5ac",
+        "android_client_info": {
+          "package_name": "com.sudhirtheindian4.whatsappnewchattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395915255749-d09a55s5qko7d35095c8qnekojdbuubv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC1nP58kw-J0OpxbsvKjneSI6zl2NBA1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395915255749-d09a55s5qko7d35095c8qnekojdbuubv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

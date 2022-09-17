@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    //jise show karna hai use showasaction always kr de -->
+    <item android:title="Search" android:icon="@drawable/search" android:id="@+id/search" app:showAsAction="always"/>
+    <item android:title="Group" android:icon="@drawable/group" android:id="@+id/group"/>
+    <item android:title="Invite"  android:id="@+id/invite"/>
+    <item android:title="Settings" android:icon="@drawable/settings" android:id="@+id/settings"/>
+    <item android:title="Calling" android:icon="@drawable/call" android:id="@+id/call" app:showAsAction="always"/>
+    <item android:title="Video Calling" android:icon="@drawable/video_call" android:id="@+id/video_call" app:showAsAction="always"/>
+
+</menu>
